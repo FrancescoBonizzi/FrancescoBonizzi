@@ -4,7 +4,7 @@ I also love putting a profile image in reverse (except for the serious profiles.
 
 For example here I was watching the ground from the sky.
 
-![Me watching the ground from the sky](images/me-reverse.jpg)
+![Me watching the ground from the sky](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/me-reverse.jpg?raw=true)
 
 ---
 
@@ -16,7 +16,7 @@ I’m currently working on **Mark in DeDark**, my last game. *You are lost in a 
 
 These are the icons of my other games, aren't them pretty? You can find their code in my repos!
 
-![infart](images/infart.png)
-![starfall](images/starfall.png)
-![rellow](images/rellow.png)
-![mark](images/markindedark.png)
+![infart](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/infart.png?raw=true)
+![starfall](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/starfall.png?raw=true)
+![rellow](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/rellow.png?raw=true)
+![mark](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/markindedark.png?raw=true)
