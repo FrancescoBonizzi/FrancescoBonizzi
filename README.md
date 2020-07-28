@@ -6,7 +6,7 @@ I also love putting a profile image in reverse 🙃 (except for the serious prof
 
 How I work
 ---
-My favourite language is **C#** and whenever I find a solution for something difficult, I push it to a new public repository to share my knowledge. I have a particular proficiency with .NET platform and MSSQL Server. I try to fill my need for knowledge in every project I work on: in my free time I contribute to open source and make videogames. Also, I'm checklists maniac ✔
+My favourite language is **C#** and whenever I find a solution for something difficult, I push it to a new public repository to share my knowledge. I have a particular proficiency with .NET platform and MSSQL Server. I try to fill my need for knowledge in every project I work on: in my free time I contribute to open source and make videogames. Also, I'm checklists maniac ✔!
 
 Get in touch
 ---
