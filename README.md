@@ -1,4 +1,4 @@
-![header]((https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/header.jpg?raw=true)
+![header](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/header.jpg?raw=true)
 
 Hi, I'm Francesco - an italian full stack developer. I really **love** programming!
 
