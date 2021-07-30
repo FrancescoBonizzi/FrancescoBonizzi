@@ -1,7 +1,10 @@
-![header](https://github.com/FrancescoBonizzi/FrancescoBonizzi/blob/master/images/header.jpg?raw=true)
+<img style="float: left;" src="images/imagine-software-logo.png">
 
-Hi, I'm Francesco - an italian full stack developer. I really **love** programming!
+# Imagine Software
 
-I work in Parma as a software developer and my favourite language is **C#**. In the free time I make videogames and contribute to open-source. Also, I'm checklists *maniac* ✔!
 
-Checkout [my personal site](https://www.fbonizzi.it)! 
+Hi, I'm Francesco - an italian **freelance** full stack developer, .NET and Android: my little company name is **Imagine Software**. 
+
+My favourite language is **C#**. In the free time I make videogames and contribute to open-source.
+
+Checkout [my freelance website](https://www.imaginesoftware.it)! 
