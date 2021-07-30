@@ -1,7 +1,4 @@
-<img style="float: left;" src="images/imagine-software-logo.png">
-
-# Imagine Software
-
+![Imagine Software logo](images/imagine-software-logo.png)
 
 Hi, I'm Francesco - an italian **freelance** full stack developer, .NET and Android: my little company name is **Imagine Software**. 
 
