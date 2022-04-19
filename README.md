@@ -15,4 +15,4 @@ For the front-end I prefer the `react` stack: `react`, `react-native` and `TypeS
 
 The code I write is clean, uncluttered, easily understandable, consistent and linear. I pay a lot of attention to performance - I come from the world of betting - and to the debuggability of what I develop.
 
-I can be part of your team also with Agile/Scrum method, I can develop modules of code or entire projects. I can also help you with refactoring or with writing Unit Tests and Integration Tests. I will for sure integrate meaningfully with colleagues wherever they are.
+I can be part of your team also with `Agile`/`Scrum` method, I can develop modules of code or entire projects. I can also help you with refactoring or with writing Unit Tests and Integration Tests. I will for sure integrate meaningfully with colleagues wherever they are.
