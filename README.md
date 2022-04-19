@@ -1,4 +1,4 @@
-![Imagine Software logo](images/logo-imagine-software.png)
+![Imagine Software logo](images/logo-imagine-software.jpg)
 
 -   🌍 [Website: www.imaginesoftware.it](https://www.imaginesoftware.it/)
 -   💻 [Github](https://github.com/FrancescoBonizzi)
